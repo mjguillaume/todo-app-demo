@@ -1,0 +1,13 @@
+node_modules/
+/dist/
+/.env
+/*.log
+.DS_Store
+# NestJS
+npm-debug.log
+# Vite
+.vite/
+.idea/
+# Docker
+docker-compose.override.yml
+
